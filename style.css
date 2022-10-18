@@ -1,0 +1,12 @@
+body {
+    background-image: url("grunge-paint-background_1409-1337.webp");
+}
+h1 {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+canvas {
+    margin: 12px;
+    box-shadow: black;
+}
